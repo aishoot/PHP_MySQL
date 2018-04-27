@@ -1,5 +1,5 @@
 # php_mysql
-The server backend interface of a project.
+The server backend interface of a project using php.
 
 **PHP**:<br>
 PHP is a scripting language that works particularly well for server-side web development.
