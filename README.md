@@ -5,4 +5,4 @@ The server backend interface of a project using php. As a starter of PHP7, your 
 PHP is a scripting language that works particularly well for server-side web development.
 
 # Reference
-[HTML5酷炫资源](https://www.html5tricks.com/)
+[HTML5 dazzling resources](https://www.html5tricks.com/)
