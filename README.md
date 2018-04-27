@@ -1,5 +1,5 @@
 # php_mysql
-PHP & MySQL Study.
+The server backend interface of a project.
 
 **PHP**:<br>
 PHP is a scripting language that works particularly well for server-side web development.
